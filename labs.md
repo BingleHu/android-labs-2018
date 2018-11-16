@@ -23,3 +23,4 @@ https://github.com/hzuapps/android-labs-2018/issues/7
 
 # 实验8：	Android综合编程
 https://github.com/hzuapps/android-labs-2018/issues/8
+![思路图]("https://github.com/BingleHu/android-labs-2018/blob/master/p1.png"""这是一张思路图")
